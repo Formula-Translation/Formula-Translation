@@ -1,37 +1,39 @@
-# Hi, I'm Fortran 👋
+# Hi, I'm Fortran!
 
-Computer Engineer focused on **real-time systems, embedded development, and modern web applications**.
-I enjoy building systems that interact with real-world environments — from **data platforms to hardware-integrated software systems**.
+Computer Engineer building intelligent systems that connect software, data, and real-world environments.
+
+My work spans:
+- Hydroinformatics & environmental systems
+- Geospatial and simulation platforms
+- Full-stack web applications
+- Embedded and real-time systems
+- Infrastructure and deployment workflows
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**Languages**
+### Languages
+Python · C · C++ · JavaScript · TypeScript · SQL
 
-Python · C · C++ · JavaScript · TypeScript
+### Web & Platforms
+Next.js · React · Angular · FastAPI · REST APIs · PostgreSQL · Supabase
 
-**Web Development**
+### Geospatial & Simulation
+Mapbox · GIS Workflows · Remote Sensing · Time-Series Analytics · MIKE+ · DFS0 / RES1D
 
-Angular · REST APIs · Web APIs
-
-**Embedded / Systems**
-
+### Embedded & Systems
 Linux · Raspberry Pi · V4L2 · Real-Time Systems
 
-**Tools**
-
-Git · Docker · Linux CLI
-
----
-
-## 📚 Interests
-
-* Real-time computing
-* Embedded systems
-* Accessibility technology
-* Scalable software architecture
+### Infrastructure
+Docker · Nginx · Cloudflare Tunnel · API Deployment
 
 ---
 
-⭐ Always building something new.
+## Current Focus
+
+- Hydrological simulation platforms
+- Environmental data visualization
+- GIS-based monitoring systems
+- Climate and water technology
+- Intelligent infrastructure workflows
