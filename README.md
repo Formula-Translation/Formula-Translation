@@ -5,24 +5,6 @@ I enjoy building systems that interact with real-world environments — from **d
 
 ---
 
-## 🌾 OnFarm Solutions
-
-A digital platform designed to support **agricultural data management and irrigation-related workflows**.
-
-The platform helps organize and manage field data used for farming operations and agricultural monitoring.
-
-**Highlights**
-
-* Built web-based tools for **agricultural data collection and management**
-* Supports **farm and irrigation data tracking**
-* Designed for practical use in agricultural environments
-
-**Tech**
-
-Angular · JavaScript · Web API · Data Systems
-
----
-
 ## 🛠 Tech Stack
 
 **Languages**
