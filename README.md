@@ -1,8 +1,8 @@
-# Hi, I'm Fortran 👋
+# Hi, I'm Fortran!
 
-Computer Engineer building real-world software systems — from hydroinformatics platforms and environmental data tools to embedded and modern web applications.
+I build software for real-world systems — from hydroinformatics platforms and environmental data tools to embedded and web applications.
 
-I enjoy creating systems that connect software with real-world environments through geospatial visualization, simulation workflows, APIs, and intelligent data platforms.
+Most of my work sits somewhere between engineering, geospatial data, simulation, and modern software development.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -10,51 +10,23 @@ I enjoy creating systems that connect software with real-world environments thro
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## ⚡ Focus Areas
+### Things I work on
 
-- Hydroinformatics & water management systems
-- Geospatial visualization and simulation platforms
-- Real-time and embedded systems
-- Environmental and agricultural data platforms
-- Web-based dashboards and APIs
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-Python · C · C++ · JavaScript · TypeScript · SQL
-
-### Frontend
-Angular · React · Next.js · Mapbox · Recharts
-
-### Backend & Data
-FastAPI · REST APIs · PostgreSQL · Supabase · SQLite
-
-### Systems & Tools
-Linux · Raspberry Pi · Docker · Git · MIKE+ · MIKE by DHI
+- Hydroinformatics & simulation platforms
+- Geospatial visualization and time-series data
+- Embedded and real-time systems
+- Environmental and agricultural technology
+- APIs, dashboards, and data workflows
 
 ---
 
-## 🚀 Featured Work
+### Current stack
 
-### Hydroinformatics Platform
-Web-based platform for geospatial visualization, simulation scenario management, and environmental time-series analysis using MIKE+ workflows.
-
-### HearingSense Smart Glasses
-Accessibility-focused smart glasses interface with real-time subtitles and sound awareness features.
-
-### Digital Agriculture Platform
-Integrated tools for agricultural data management, crop planning, and water resource monitoring.
+Python · TypeScript · Angular · Next.js · FastAPI · PostgreSQL · Docker · Linux · MIKE+
 
 ---
-
-## 📊 Interests
-
-Hydroinformatics · Remote Sensing · Environmental Modeling · Real-Time Systems · Spatial Data · Engineering
