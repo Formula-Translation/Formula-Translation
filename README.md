@@ -3,7 +3,7 @@
 Entrepreneur passionate about solving real-world problems through software, data, and engineering.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,postgres,angular,nextjs,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,postgres,angular,nextjs,docker,linux" height="28" />
 </p>
 
 ---
